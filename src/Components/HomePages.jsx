@@ -8,19 +8,19 @@ import bnb from './img/bn.svg'
 const HomePages = () => {
   return (
     <div>
-      <section class="section4">
-        <div class="card-container">
-            <div class="card">
+      <section className="section4">
+        <div className="card-container">
+            <div className="card">
               <img src={btc} alt="" />
               <TitleProps title={"Hello Wolrd"}/>
               <DescriptionsProps description={"Lorem"}/>
             </div>
-            <div class="card">
+            <div className="card">
               <img src={eth} alt="" />
               <TitleProps title={"Hello Wolrd"}/>
               <DescriptionsProps description={"Lorem"}/>
             </div>
-            <div class="card">
+            <div className="card">
               <img src={bnb} alt="" />
               <TitleProps title={"Hello Wolrd"}/>
               <DescriptionsProps description={"Lorem"}/>
