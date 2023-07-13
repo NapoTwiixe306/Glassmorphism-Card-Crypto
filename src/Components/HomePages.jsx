@@ -12,7 +12,7 @@ import data from './Text.json'
 const HomePages = () => {
   return (
     <div>
-      <section className="section4">
+      <section className="container">
         <div className="card-container">
             <div className="card">
               <img src={btc} alt="" />
