@@ -1,0 +1,15 @@
+{
+  "btc_title": "Bitcoin",
+  "btc_description": {
+    "btc": "BTC (Bitcoin) : Première et plus célèbre cryptomonnaie, fonctionnant sur une blockchain décentralisée, considérée comme une réserve de valeur numérique et un moyen de paiement décentralisé."
+  },
+  "eth_title": "Ethereum",
+  "eth_description": {
+    "eth": "ETH (Ethereum) : Deuxième plus grande cryptomonnaie et plateforme de contrats intelligents, permettant l'exécution et le développement de programmes décentralisés."
+  },
+  "bnb_title": "Binance Coin",
+  "bnb_description": {
+    "bnb": "BNB (Binance Coin) : Cryptomonnaie native de la plateforme Binance, utilisée pour les frais de transaction et offrant des avantages aux détenteurs"
+
+  }
+}
