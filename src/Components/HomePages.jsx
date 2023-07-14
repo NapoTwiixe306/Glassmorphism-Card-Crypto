@@ -35,4 +35,4 @@ const HomePages = () => {
   )
 }
 
-export default HomePages
+export default HomePages;
