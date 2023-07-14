@@ -3,7 +3,7 @@ import DescriptionsProps from './Props/DescriptionsProps'
 import TitleProps from './Props/TitleProps'
 
 {/*IMAGES IMPORT*/}
-import btc from './img/Bitcoin.png'
+import btc from './img/bitcoin.svg'
 import eth from './img/eth.svg'
 import bnb from './img/bn.svg'
 
@@ -17,17 +17,17 @@ const HomePages = () => {
             <div className="card">
               <img src={btc} alt="" />
               <TitleProps title={data.btc_title}/>
-              <DescriptionsProps description={data.btc_description.btc}/>
+              <DescriptionsProps description={""}/>
             </div>
             <div className="card">
               <img src={eth} alt="" />
               <TitleProps title={data.eth_title}/>
-              <DescriptionsProps description={data.eth_description.eth}/>
+              <DescriptionsProps description={""}/>
             </div>
             <div className="card">
               <img src={bnb} alt="" />
               <TitleProps title={data.bnb_title}/>
-              <DescriptionsProps description={data.bnb_description.bnb}/>
+              <DescriptionsProps description={""}/>
             </div>
         </div>
     </section>
